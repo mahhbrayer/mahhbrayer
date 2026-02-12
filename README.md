@@ -76,9 +76,9 @@ React • Tailwind CSS • Bootstrap
 ## 🚀 Projetos em Destaque
 
 ### 1. Glow Landing Page
-Landing page moderna e responsiva para [descreva brevemente o que é: ex: produto de beleza/glow-up/app].  
+Landing page moderna e responsiva
 **Techs:** HTML • CSS • Bootstrap • JS
-🔗 [Ver Live](https://www.glow.melhorvoce.com) • [Código](https://github.com/mahhbrayer/glow-landing)
+🔗 [Ver Live](https://www.glow.melhorvoce.com) 
 
 
 ### 📫 Contato
