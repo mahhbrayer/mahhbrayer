@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/mahhbrayer.png" width="140px" alt="Mateus Brayer" style="border-radius:50%; border: 4px solid #0d1117;"/>
   <h1>👋 Oi, eu sou o Mateus Brayer!</h1>
-  <h3>Desenvolvedor Front-End Júnior</h3>
+  <h3>Desenvolvedor Júnior</h3>
   <img 
     align="center" 
     alt="HTML"
