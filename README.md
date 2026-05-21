@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/mahhbrayer.png" width="140px" alt="Mateus Brayer" style="border-radius:50%; border: 4px solid #0d1117;"/>
   <h1>👋 Oi, eu sou o Mateus Brayer!</h1>
-  <h3>Desenvolvedor Júnior</h3>
+  <h3>Profissional de TI | Segurança da Informação</h3>
   <img 
     align="center" 
     alt="HTML"
@@ -55,10 +55,12 @@
 
 **`Sobre mim`**:
 
-Tenho 19 anos, sou de Curitiba-PR.  
-Concluí o técnico em Programação Web no Senac, atualmente curso **Sistemas de Informação** na ISULPAR e falo inglês com facilidade (C1).  
-Sou apaixonado por tecnologia. Busco minha primeira oportunidade como estágiario para aprender com times experientes e entregar valor real.  
-Vamos construir algo incrível? 🚀
+Profissional de TI com experiência prática em suporte técnico e infraestrutura, atuando em
+ambiente corporativo com diagnóstico de falhas em hardware, software e redes. Inglês
+avançado. Conhecimentos em desenvolvimento web e segurança da informação, com trilha
+ativa em Web Pentesting pela Hack The Box e identificação de vulnerabilidades em
+aplicações reais. Perfil técnico, proativo e autodidata, buscando oportunidade em TI para
+atuar em infraestrutura ou segurança 🚀
 
 ---
 
